@@ -1,7 +1,7 @@
 [project]
 name = "ai-finance-portfolio"
 version = "0.1.0"
-description = "Add your description here"
+description = "Applied AI and ML tools for finance, ESG and economic policy"
 readme = "README.md"
 requires-python = ">=3.14"
 dependencies = [
